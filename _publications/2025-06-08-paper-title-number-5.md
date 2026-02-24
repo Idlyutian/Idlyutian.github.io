@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Direct Observations of a Shock Traversing Preceding Two Coronal Mass Ejections: Insights from Solar Orbiter, Wind, and STEREO Observations"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
